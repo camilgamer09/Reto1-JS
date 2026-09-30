@@ -18,5 +18,5 @@ function obtenerIniciales(nombreCompleto) {
 console.log(obtenerIniciales(" camilo esteban rueda "));
 console.log(obtenerIniciales(" carlos eduardo lopez "));
 console.log(obtenerIniciales("    Pedro Pablo pango    "));
-// La prueba que no funciona 
+// La prueba de error si no hay contenido 
 console.log(obtenerIniciales(""));
