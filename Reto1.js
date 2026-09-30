@@ -1,0 +1,2 @@
+function obtenerIniciales(nombreCompleto) {
+}
